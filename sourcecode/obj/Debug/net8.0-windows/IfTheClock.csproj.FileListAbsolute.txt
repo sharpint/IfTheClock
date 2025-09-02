@@ -1,0 +1,14 @@
+D:\Relojito\IfTheClock\obj\Debug\net8.0-windows\IfTheClock.GeneratedMSBuildEditorConfig.editorconfig
+D:\Relojito\IfTheClock\obj\Debug\net8.0-windows\IfTheClock.AssemblyInfoInputs.cache
+D:\Relojito\IfTheClock\obj\Debug\net8.0-windows\IfTheClock.AssemblyInfo.cs
+D:\Relojito\IfTheClock\obj\Debug\net8.0-windows\IfTheClock.csproj.CoreCompileInputs.cache
+D:\Relojito\IfTheClock\bin\Debug\net8.0-windows\IfTheClock.exe
+D:\Relojito\IfTheClock\bin\Debug\net8.0-windows\IfTheClock.deps.json
+D:\Relojito\IfTheClock\bin\Debug\net8.0-windows\IfTheClock.runtimeconfig.json
+D:\Relojito\IfTheClock\bin\Debug\net8.0-windows\IfTheClock.dll
+D:\Relojito\IfTheClock\bin\Debug\net8.0-windows\IfTheClock.pdb
+D:\Relojito\IfTheClock\obj\Debug\net8.0-windows\IfTheClock.dll
+D:\Relojito\IfTheClock\obj\Debug\net8.0-windows\refint\IfTheClock.dll
+D:\Relojito\IfTheClock\obj\Debug\net8.0-windows\IfTheClock.pdb
+D:\Relojito\IfTheClock\obj\Debug\net8.0-windows\IfTheClock.genruntimeconfig.cache
+D:\Relojito\IfTheClock\obj\Debug\net8.0-windows\ref\IfTheClock.dll

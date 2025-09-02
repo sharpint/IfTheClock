@@ -1,0 +1,14 @@
+D:\Relojito\IfTheClock\obj\Release\net8.0-windows\win-x64\IfTheClock.GeneratedMSBuildEditorConfig.editorconfig
+D:\Relojito\IfTheClock\obj\Release\net8.0-windows\win-x64\IfTheClock.AssemblyInfoInputs.cache
+D:\Relojito\IfTheClock\obj\Release\net8.0-windows\win-x64\IfTheClock.AssemblyInfo.cs
+D:\Relojito\IfTheClock\obj\Release\net8.0-windows\win-x64\IfTheClock.csproj.CoreCompileInputs.cache
+D:\Relojito\IfTheClock\bin\Release\net8.0-windows\win-x64\IfTheClock.exe
+D:\Relojito\IfTheClock\bin\Release\net8.0-windows\win-x64\IfTheClock.deps.json
+D:\Relojito\IfTheClock\bin\Release\net8.0-windows\win-x64\IfTheClock.runtimeconfig.json
+D:\Relojito\IfTheClock\bin\Release\net8.0-windows\win-x64\IfTheClock.dll
+D:\Relojito\IfTheClock\bin\Release\net8.0-windows\win-x64\IfTheClock.pdb
+D:\Relojito\IfTheClock\obj\Release\net8.0-windows\win-x64\IfTheClock.dll
+D:\Relojito\IfTheClock\obj\Release\net8.0-windows\win-x64\refint\IfTheClock.dll
+D:\Relojito\IfTheClock\obj\Release\net8.0-windows\win-x64\IfTheClock.pdb
+D:\Relojito\IfTheClock\obj\Release\net8.0-windows\win-x64\IfTheClock.genruntimeconfig.cache
+D:\Relojito\IfTheClock\obj\Release\net8.0-windows\win-x64\ref\IfTheClock.dll

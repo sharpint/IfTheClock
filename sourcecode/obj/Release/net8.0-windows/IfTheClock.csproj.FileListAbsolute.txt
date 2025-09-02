@@ -1,0 +1,4 @@
+D:\Relojito\IfTheClock\obj\Release\net8.0-windows\IfTheClock.GeneratedMSBuildEditorConfig.editorconfig
+D:\Relojito\IfTheClock\obj\Release\net8.0-windows\IfTheClock.AssemblyInfoInputs.cache
+D:\Relojito\IfTheClock\obj\Release\net8.0-windows\IfTheClock.AssemblyInfo.cs
+D:\Relojito\IfTheClock\obj\Release\net8.0-windows\IfTheClock.csproj.CoreCompileInputs.cache

@@ -1,0 +1,5 @@
+D:\Relojito\IfTheClock\bin\Release\net8.0-windows\win-x64\publish\IfTheClock.exe
+D:\Relojito\IfTheClock\bin\Release\net8.0-windows\win-x64\publish\IfTheClock.dll
+D:\Relojito\IfTheClock\bin\Release\net8.0-windows\win-x64\publish\IfTheClock.deps.json
+D:\Relojito\IfTheClock\bin\Release\net8.0-windows\win-x64\publish\IfTheClock.runtimeconfig.json
+D:\Relojito\IfTheClock\bin\Release\net8.0-windows\win-x64\publish\IfTheClock.pdb
